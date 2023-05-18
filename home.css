@@ -124,6 +124,7 @@ section {
 .swiper-slide img {
     width: 14.9cm;
     height: 10.5cm;
+    padding: 0px 20px;
     align-items: center;
     background-size: cover;
     border-radius: 30px;
